@@ -1,4 +1,6 @@
 📊 SQL Data Cleaning Project: Global Layoffs Dataset
+
+
 📌 Project Overview :
 This project focuses on cleaning and preparing a global layoffs dataset using SQL. The dataset contains information about layoffs across various companies, industries, and countries. The goal is to transform raw, inconsistent data into a structured and reliable format suitable for analysis.
 Through this project, key data cleaning techniques such as handling missing values, removing duplicates, standardizing data formats, and correcting inconsistencies are applied to ensure high-quality data.
@@ -27,14 +29,6 @@ Date,
 Stage (Startup stage, etc.),
 Country,
 Funds Raised.
-
-🔍 Data Cleaning Steps :
-Removed duplicate records using window functions,
-Standardized text fields (company names, industries),
-Converted date formats into a consistent structure,
-Handled null and blank values,
-Trimmed extra spaces and corrected inconsistencies,
-Verified data types and ensured column integrity.
 
 📈 Key Outcomes :
 Created a clean and analysis-ready dataset,
